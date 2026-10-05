@@ -2,7 +2,7 @@
 
 ## Hola, soy Jackelline
  
-## Estudiante de Informática
+### Estudiante de Informática
  
 Actualmente estudio Desarrollo  e implementación de soluciones web.
  
