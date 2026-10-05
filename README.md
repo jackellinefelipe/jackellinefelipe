@@ -1,8 +1,6 @@
-##👋 Bienvenido a mi Perfil
-<!--
-**jackellinefelipe/jackellinefelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#👋 Bienvenido a mi Perfil
 
-# Hola, soy Jackelline
+## Hola, soy Jackelline
  
 ## Estudiante de Informática
  
@@ -18,4 +16,4 @@ Actualmente estudio Desarrollo  e implementación de soluciones web.
 ### Mis proyectos
  
 - Pagina principal
--
+
